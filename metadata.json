@@ -1,0 +1,6 @@
+{
+  "name": "EMIE CLINIC — Clinique Médico-Esthétique & Kinésithérapie",
+  "description": "Plateforme digitale officielle et système de gestion des rendez-vous d'EMIE CLINIC à Casablanca — Kinésithérapie, Ostéopathie, Amincissement, Cupping / Hijama et Soins du visage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
